@@ -1,0 +1,2 @@
+rootProject.name = "Calculatrice_Scientifique"
+include ':app'
