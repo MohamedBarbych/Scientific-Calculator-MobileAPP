@@ -1,6 +1,6 @@
 # Scientific Calculator 🔢
 
-A feature-rich scientific calculator mobile app developed using **Java** && **XML**, with support for complex calculations and (...) , including the management of parentheses for nested expressions.
+A feature-rich scientific calculator mobile app developed using **Java** && **XML**, with support for complex calculations and (....) , including the management of parentheses for nested expressions.
 
 ![Screenshot](https://github.com/MohamedBarbych/Scientific-Calculator-MobileAPP/assets/146338565/7762d28c-43e4-451d-b7ec-9e7a77f70c72)
 
