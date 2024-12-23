@@ -6,7 +6,7 @@ A feature-rich scientific calculator mobile app developed using **Java** && **XM
 
 ---
 
-## 🚀 Features
+## 🚀 Features 
 
 - 🔢 **Basic and Scientific Functions**: Perform standard arithmetic operations and advanced functions like sine, cosine, tangent, logarithms, and more.
 - 📐 **Parentheses Management**: Efficient handling of parentheses to support complex, nested expressions.
