@@ -1,4 +1,4 @@
- # Scientific Calculator 🔢
+# Scientific Calculator 🔢
  
 A feature-rich scientific calculator mobile app developed using **Java** && **XML**, with support for complex calculations, including managing parentheses (X+-/) for nested expressions.
 
