@@ -25,7 +25,7 @@ A feature-rich scientific calculator mobile app developed using **Java** && **XM
 
 ## 🛠️ Installation and Setup   
 
-###  Clone the Repository
+###  Clone the Repository                
 ```bash
 git clone https://github.com/your-username/Scientific-Calculator-MobileAPP.git
 cd Scientific-Calculator-MobileAPP
