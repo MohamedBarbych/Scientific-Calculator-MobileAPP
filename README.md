@@ -18,7 +18,7 @@ A feature-rich scientific calculator mobile app developed using **Java** && **XM
 ## 🛠️ Tech Stack
 
 - **Programming Language**: Java  
-- **User Interface**: XML (Android)            
+- **User Interface**: XML (Android)                             
 - **Features**: Parentheses Management
 
 ---
